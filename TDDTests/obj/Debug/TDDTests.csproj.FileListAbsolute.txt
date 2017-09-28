@@ -1,0 +1,7 @@
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\bin\Debug\TDDTests.dll
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\bin\Debug\TDDTests.pdb
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\bin\Debug\TDDCalculator.exe
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\bin\Debug\TDDCalculator.pdb
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\obj\Debug\TDDTests.csprojResolveAssemblyReference.cache
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\obj\Debug\TDDTests.dll
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDTests\obj\Debug\TDDTests.pdb

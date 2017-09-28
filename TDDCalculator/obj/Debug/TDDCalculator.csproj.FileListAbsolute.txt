@@ -1,0 +1,9 @@
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\bin\Debug\TDDCalculator.exe.config
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\bin\Debug\TDDCalculator.exe
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\bin\Debug\TDDCalculator.pdb
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\obj\Debug\TDDCalculator.csprojResolveAssemblyReference.cache
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\obj\Debug\TDDCalculator.exe
+C:\Users\akary\Documents\Interviews 2017\Pluto\TDDCalculator\obj\Debug\TDDCalculator.pdb
+C:\Users\akary\Desktop\Pluto Final\TDDCalculator\bin\Debug\TDDCalculator.exe.config
+C:\Users\akary\Desktop\Pluto Final\TDDCalculator\obj\Debug\TDDCalculator.exe
+C:\Users\akary\Desktop\Pluto Final\TDDCalculator\obj\Debug\TDDCalculator.pdb
